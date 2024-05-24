@@ -6,8 +6,10 @@
 <p align="center">Hello! I am 16 years old, and I am from the beautiful city of Tashkent, Uzbekistan. I have over a year of experience in Front End development and I proudly completed my studies at the Proweb center. With great enthusiasm, I strive to continue developing in this field and deepen my knowledge. I am delighted to greet you and ready for new challenges and opportunities!</p>
 
 - 🌱 I’m currently learning **Nuxt.js and TypeScript**
-
+- 💬 Ask me about **Javascript and Vue.js**
+- 📄 Know about my experiences **1+ year**
 - 📫 How to reach me **shomurodovhusan130@gmail.com**
+- ⚡ Fun fact **I think I'm Funny**
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
