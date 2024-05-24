@@ -11,7 +11,7 @@
 - 📫 How to reach me **shomurodovhusan130@gmail.com**
 - ⚡ Fun fact **I think I'm Funny**
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <h3 align="left">Languages and Tools:</h3>
 
